@@ -1,4 +1,4 @@
-### Ohagwu Ebubechukwu Ernest · backend / tooling engineer
+### Raphie · backend / tooling engineer
 
 TypeScript · Python · Solidity. I build agents and verifiers that **prove what they did** — deterministic test gates, pre-trade guardrails, execution sandboxes, receipt-settled escrow.
 
